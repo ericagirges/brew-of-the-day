@@ -6,7 +6,7 @@ const BeerContainer = styled.div `
     width: 100%;
     height: 475px;
     text-align: center;
-    margin: 30px auto;
+    margin: 30px auto 0 auto;
     font-family: "Raleway", sans-serif;
 `
 
